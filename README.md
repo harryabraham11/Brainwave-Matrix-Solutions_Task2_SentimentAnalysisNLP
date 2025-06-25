@@ -22,7 +22,7 @@ Source of the Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
 - **Pandas**, **NumPy** for data manipulation
 - **NLTK** for NLP preprocessing
 - **scikit-learn** for ML modeling and evaluation
-- **Jupyter Notebook** for experimentation
+- **Google Colab** for experimentation
 
 ---
 
