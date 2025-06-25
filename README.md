@@ -2,6 +2,7 @@
 
 This project demonstrates how to use Natural Language Processing (NLP) techniques to perform sentiment analysis on text data. The objective is to classify the sentiment of given text as **positive** or **negative** using a machine learning model.
 
+Source of the Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
 ---
 
 ## 📌 Key Features
